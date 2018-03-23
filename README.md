@@ -5,6 +5,8 @@ Deisgn by Garland K.
 
 Information and Input by Jordan W.
 
+Memed and Proofed by Alex S.
+
 Overseer of the Sweat Shop James C.
 
 Live Demo of Repo : https://oasectionc6a.github.io/website/home.html
