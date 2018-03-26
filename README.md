@@ -37,6 +37,6 @@ Step 10 : Click GitHub, from here leave "Account" blank and add a folder name. W
 
 Step 11 : Now click publish. It may take a bit but you should be prompted for your GitHub username and password. Enter that info and click ok. 
 
-Step 12 : If you get a message saying it was succsesful then you are ready to suggest the chages to us. You should also click 
+Step 12 : If you get a message saying it was succsesful then you are ready to suggest the chages to us. Find your Repo on github.com under your account profile. This should hold your uploaded files.
 
-Step 13 : Make a Pull Request that compares your repository to ours and submit it. We will review the changes you have sent us.
+Step 13 : Make a Pull Request that compares your repository to ours and submit it. We will review the changes you have sent us. Thank you!
