@@ -9,7 +9,7 @@ Memed and Proofed by Alex S.
 
 Overseer of the Sweat Shop James C.
 
-Live Demo of Repo : https://oasectionc6a.github.io/website/home.html
+Live Demo of Repo : https://oasectionc6a.github.io/website/index.html
 
 
 Steps on how YOU can help edit/suggest changes to the site:
