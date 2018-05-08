@@ -2883,78 +2883,8 @@ body {
 .cid-qMz7FYxGej .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qMBssdxlxE {
-  padding-top: 105px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qMBssdxlxE h2 {
-  text-align: left;
-}
-.cid-qMBssdxlxE h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qMBssdxlxE p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qMBssdxlxE .aside-content {
-  flex-basis: 100%;
-}
-.cid-qMBssdxlxE .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-qMBssdxlxE .media {
-  margin: initial;
-  align-items: center;
-}
-.cid-qMBssdxlxE .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-qMBssdxlxE .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-qMBssdxlxE .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-qMBssdxlxE .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qMBssdxlxE .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-qMBssdxlxE .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-qMBssdxlxE H2 {
-  color: #ff3333;
-}
-.cid-qMBssdxlxE .mbr-text {
-  color: #073b4c;
-  text-align: left;
-}
-.cid-qMBssdxlxE H4 {
-  color: #f75353;
-}
-.cid-qMBssdxlxE P {
-  color: #000000;
+.cid-qRquNwmhO6 {
+  background: linear-gradient(45deg, #ff3333, #073b4c);
 }
 .cid-qOuVLDgejs {
   padding-top: 15px;
@@ -3068,10 +2998,10 @@ body {
 .cid-qMBJp1twHP {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/1n7a1954-23-2000x3000.jpg");
+  background-image: url("../../../assets/images/img-656-2000x3000.jpg");
 }
 .cid-qMBJp1twHP .mbr-section-subtitle {
-  color: #efefef;
+  color: #f75353;
   text-align: center;
   font-weight: 300;
 }
@@ -3161,7 +3091,7 @@ body {
   text-align: left;
 }
 .cid-qMBJp1twHP .mbr-section-title {
-  color: #ffffff;
+  color: #f75353;
 }
 .cid-qMC3JoMn7G .google-map {
   height: 25rem;
@@ -3721,7 +3651,7 @@ body {
 .cid-qMAAindGtR {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/1n7a1802-7-2000x1333.jpg");
+  background-image: url("../../../assets/images/img-733-2000x1333.jpg");
 }
 .cid-qMAAindGtR H2 {
   color: #ed0000;
@@ -4382,7 +4312,7 @@ body {
 .cid-qMC5RqNEMN {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/1n7a1976-31-2000x1333.jpg");
+  background-image: url("../../../assets/images/img-594-2000x1333.jpg");
 }
 .cid-qMC5RqNEMN H2 {
   color: #ff3333;
@@ -5377,7 +5307,7 @@ body {
 .cid-qN4L56EbKa {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/sectionofficers-2-2000x1099.png");
+  background-image: url("../../../assets/images/img-561-2000x1333.jpg");
 }
 .cid-qN4L56EbKa H2 {
   color: #f75353;
@@ -6608,7 +6538,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qMzR9MxKnH {
-  background-image: url("../../../assets/images/untitled-2-2000x1023.png");
+  background-image: url("../../../assets/images/img-696-2000x1191.jpg");
 }
 .cid-qMzR9MxKnH H1 {
   color: #f75353;
@@ -6616,13 +6546,17 @@ body {
 }
 .cid-qMzR9MxKnH .mbr-text,
 .cid-qMzR9MxKnH .mbr-section-btn {
-  color: #efefef;
+  color: #f75353;
   text-align: center;
+}
+.cid-qMzR9MxKnH .mbr-text,
+.cid-qMzR9MxKnH .mbr-section-btn B {
+  color: #f75353;
 }
 .cid-qMzxbQJUYF {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: url("../../../assets/images/1n7a1828-11-2000x1333.jpg");
+  background: url("../../../assets/images/img-734-2000x1333.jpg");
 }
 .cid-qMzxbQJUYF .mbr-section-subtitle {
   color: #073b4c;
@@ -6673,7 +6607,7 @@ body {
   color: #ffffff;
 }
 .cid-qMzxbQJUYF .countdown-cont {
-  background: linear-gradient(45deg, #0f7699, #f75353);
+  background: linear-gradient(45deg, #f75353, #0f7699);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
