@@ -31,12 +31,12 @@ Step 7 : Navigate to the files you downloaded earlier and find the file called "
 
 Step 8 : You can now edit/change your very own copy of our website. If you feel these changes should be applied to the public website please read on
 
-Step 9 : Once you have changed everything you would like click the button that says publish at the top right corner
+Step 9 : Once you have changed everything you would click the button that says publish at the top right corner
 
-Step 10 : Click GitHub, from here leave "Account" blank and add a folder name. We used website although you can name it whatever you prefer.
+Step 10 : Click GitHub, from here leave "Account" blank and add a folder name. We used website although you can name it whatever you prefer
 
-Step 11 : Now click publish. It may take a bit but you should be prompted for your GitHub username and password. Enter that info and click ok. 
+Step 11 : Now click publish. It may take a bit but you should be prompted for your GitHub username and password. Enter that info and click ok
 
-Step 12 : If you get a message saying it was succsesful then you are ready to suggest the chages to us. Find your Repo on github.com under your account profile. This should hold your uploaded files.
+Step 12 : If you get a message saying it was succsesful then you are ready to suggest the chages to us. Find your Repo on github.com under your account profile. This should hold your uploaded files
 
 Step 13 : Make a Pull Request that compares your repository to ours and submit it. We will review the changes you have sent us. Thank you!
